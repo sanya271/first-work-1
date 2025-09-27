@@ -4,5 +4,5 @@
 
 _we are learning_\
 *we are learning mern*
-<ins>php is used for server side</ins>\
+<ins>php is used for server slide</ins>\
 ~~mongo db is non sql~~\
